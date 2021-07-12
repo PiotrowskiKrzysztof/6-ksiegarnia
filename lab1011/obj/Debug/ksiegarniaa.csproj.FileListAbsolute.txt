@@ -1,0 +1,44 @@
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\App.g.cs
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011_MarkupCompile.cache
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011_MarkupCompile.lref
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.exe
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.pdb
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\bin\Debug\lab1011.exe.config
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\bin\Debug\lab1011.exe
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\bin\Debug\lab1011.pdb
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.g.resources
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.Properties.Resources.resources
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\ksiegarniaa.csproj.GenerateResource.cache
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\ksiegarniaa.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\App.g.cs
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\lab1011_MarkupCompile.cache
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\lab1011_MarkupCompile.lref
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\lab1011.exe
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\lab1011.pdb
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\bin\Debug\lab1011.exe.config
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\bin\Debug\lab1011.exe
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\bin\Debug\lab1011.pdb
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\lab1011.g.resources
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\lab1011.Properties.Resources.resources
+C:\Users\Krzysztof\source\repos\ksiegarnia\lab1011\obj\Debug\ksiegarniaa.csproj.GenerateResource.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\bin\Debug\lab1011.exe.config
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\bin\Debug\lab1011.exe
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\bin\Debug\lab1011.pdb
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\ksiegarniaa.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\App.g.cs
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\lab1011_MarkupCompile.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\lab1011_MarkupCompile.lref
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\lab1011.g.resources
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\lab1011.Properties.Resources.resources
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\ksiegarniaa.csproj.GenerateResource.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\lab1011.exe
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\6_ksiegarnia\lab1011\obj\Debug\lab1011.pdb

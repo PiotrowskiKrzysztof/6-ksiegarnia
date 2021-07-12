@@ -1,0 +1,77 @@
+﻿<Window x:Class="ksiegarnia.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ksiegarnia"
+        Language="pl-PL"        
+        Title="Księgarnia" Height="450" Width="800">
+    <Window.Resources>
+        <local:PriceConverter
+            x:Key="PriceConverter"
+        />
+        <local:PriceToBackgroundConverter
+            x:Key="PriceToBackgroundConverter"
+            DefaultBrush="Red" HighlightBrush="Green"
+            MaximumPriceToHighlight="99.99"
+        />
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" >
+            <Grid.RowDefinitions >
+                <RowDefinition/>
+                <RowDefinition Height="100"/>
+            </Grid.RowDefinitions>
+            <ListBox Name="DisplayBooks" Margin="10" >
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Path=BookTitle}" Background="{Binding Path=BookPrice, Converter={StaticResource PriceToBackgroundConverter}}"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <TextBlock Margin="10" Grid.Row="1" ><Run Text="Maksymalna"/><Run Text=" cena:"/></TextBlock>
+            <TextBox Name="maxCostFilter" Grid.Row="1" Height="20" TextChanged="maxCena" Margin="10,33,267,47"></TextBox>
+            <ComboBox Name="SortMethodsList" Grid.Row="1" Height="20" SelectionChanged="zmienSortowanie" Margin="10,58,267,22">
+                <ComboBoxItem IsSelected="True" Content="Sortowanie"></ComboBoxItem>
+                <ComboBoxItem Content="Alfabetycznie"></ComboBoxItem>
+                <ComboBoxItem Content="Odwrotnie alfabetycznie"></ComboBoxItem>
+            </ComboBox>
+
+        </Grid>
+
+        <Grid Grid.Column="2" Validation.Error ="bladWalidacji" DataContext="{Binding ElementName=DisplayBooks, Path=SelectedItem}" Background="{Binding Path=BookPrice, Converter={StaticResource PriceToBackgroundConverter}}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60*" />
+                <ColumnDefinition Width="337*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" >Tytuł:</Label>
+            <TextBox  Text="{Binding Path=BookTitle}" Margin="10" Grid.Column="1" Grid.Row="0"/>
+
+            <Label Grid.Row="1" >Autor:</Label>
+            <TextBox  Text="{Binding Path=BookAuthor}" Margin="10" Grid.Column="1" Grid.Row="1"/>
+
+            <Label Grid.Row="2" >Cena:</Label>
+            <TextBox Margin="10" Grid.Column="1" Grid.Row="2">
+                <TextBox.Text>
+                    <Binding Path="BookPrice" NotifyOnValidationError="True">
+                        <Binding.Converter>
+                            <local:PriceConverter/>
+                        </Binding.Converter>
+                        <Binding.ValidationRules>
+                            <local:PositivePriceRule Min="1" Max="1000"/>
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+        </Grid>
+    </Grid>
+</Window>

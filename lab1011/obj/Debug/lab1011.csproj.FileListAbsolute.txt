@@ -1,0 +1,47 @@
+C:\Users\Pawel\source\repos\lab1011\lab1011\bin\Debug\lab1011.exe.config
+C:\Users\Pawel\source\repos\lab1011\lab1011\bin\Debug\lab1011.exe
+C:\Users\Pawel\source\repos\lab1011\lab1011\bin\Debug\lab1011.pdb
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\lab1011.csprojAssemblyReference.cache
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\MainWindow.g.cs
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\App.g.cs
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\lab1011_MarkupCompile.cache
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\lab1011_MarkupCompile.lref
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\MainWindow.baml
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\lab1011.g.resources
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\lab1011.Properties.Resources.resources
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\lab1011.csproj.GenerateResource.cache
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\lab1011.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\lab1011.exe
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\lab1011.pdb
+C:\Users\Pawel\source\repos\lab1011\lab1011\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Damian\Desktop\lab1011\lab1011\bin\Debug\lab1011.exe.config
+C:\Users\Damian\Desktop\lab1011\lab1011\bin\Debug\lab1011.exe
+C:\Users\Damian\Desktop\lab1011\lab1011\bin\Debug\lab1011.pdb
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\lab1011.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\MainWindow.g.cs
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\App.g.cs
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\lab1011_MarkupCompile.cache
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\lab1011_MarkupCompile.lref
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\MainWindow.baml
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\lab1011.g.resources
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\lab1011.Properties.Resources.resources
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\lab1011.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\lab1011.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\lab1011.exe
+C:\Users\Damian\Desktop\lab1011\lab1011\obj\Debug\lab1011.pdb
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\bin\Debug\lab1011.exe.config
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\bin\Debug\lab1011.exe
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\bin\Debug\lab1011.pdb
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\App.g.cs
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011_MarkupCompile.cache
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011_MarkupCompile.lref
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.g.resources
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.Properties.Resources.resources
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.csproj.GenerateResource.cache
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.exe
+C:\Users\Krzysztof\source\repos\poprzedni rok\6_Biblioteka\lab1011\obj\Debug\lab1011.pdb
